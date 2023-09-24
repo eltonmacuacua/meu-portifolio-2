@@ -1,0 +1,12 @@
+.redes-sociais a{
+	width: 20px;
+	margin: 5px;
+}
+
+
+.redes-sociais 
+    div {
+      display: flex;
+      align-items: center;
+      text-align: center;
+  }
